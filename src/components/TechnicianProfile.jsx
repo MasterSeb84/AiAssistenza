@@ -63,7 +63,7 @@ const TechnicianProfile = () => {
           }} className="text-center lg:text-left">
               <div className="relative mb-8">
                 <div className="w-80 h-80 mx-auto lg:mx-0 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
-                  <img alt="Sebastiano Biscuso - Tecnico Informatico Esperto" className="w-full h-full object-cover" src="/assets/images/logo.svg" />
+                  <img alt="Sebastiano Biscuso - Tecnico Informatico Esperto" className="w-full h-full object-cover" src="src/assets/images/logo.svg" />
                 </div>
                 <div className="absolute -bottom-4 -right-4 w-16 h-16 bg-gradient-to-r from-green-400 to-blue-500 rounded-full flex items-center justify-center">
                   <CheckCircle className="w-8 h-8 text-white" />
